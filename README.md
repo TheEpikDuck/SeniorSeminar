@@ -11,5 +11,5 @@ Process (maybe idk)
 -use random for the people who didn't fill out a form
 -a different class for each session? (might be too many tho :/)
 -give them student id's? 
--student object
--
+-student class
+-use the seminar ID and assign that to the students
