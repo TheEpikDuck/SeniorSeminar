@@ -7,6 +7,7 @@ public class Seminar {
     int seminarPeople;
 
     //seminars < 15
+    // should i make a class for each seminar?
     
 
 
