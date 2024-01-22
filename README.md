@@ -13,3 +13,6 @@ Process (maybe idk)
 -give them student id's? 
 -student class
 -use the seminar ID and assign that to the students
+
+1/18/2024
+Added a tester file, I'm currently working on the randomization of seesion for the late students. I haven't gotten the code to work yet.
