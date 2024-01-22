@@ -16,3 +16,6 @@ Process (maybe idk)
 
 1/18/2024
 Added a tester file, I'm currently working on the randomization of seesion for the late students. I haven't gotten the code to work yet.
+
+1/22/2024
+Put data files in, I might have to reorganizae them though since its quite mess right now. Still working on the late student part, hopefully i cant figure it out by tommorow. 
