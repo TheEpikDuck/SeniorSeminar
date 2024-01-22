@@ -10,24 +10,24 @@
 
  // Import the IOException class to handle errors
 
-  //public static void main(String[] args) {
-    //try {
-      //File myObj = new File("filename.txt");
-      //if (myObj.createNewFile()) {
-      //  System.out.println("File created: " + myObj.getName());
-      //} else {
-     //   System.out.println("File already exists.");
-     // }
-   // } catch (IOException e) {
-    //  System.out.println("An error occurred.");
-    //  e.printStackTrace();
-   // }
- // }
-//}
+  public static void main(String[] args) {
+    try {
+      File myObj = new File("filename.txt");
+      if (myObj.createNewFile()) {
+        System.out.println("File created: " + myObj.getName());
+      } else {
+        System.out.println("File already exists.");
+      }
+   } catch (IOException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+   }
+  }
+}
 
 
 
-
+System.out.print ("seminar 1, seminar 2, seminar 3, seminar 4, seminar 5")
 
 
 
