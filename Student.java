@@ -1,39 +1,40 @@
-//public class Student{
+import java.io.File;  
+import java.io.IOException; 
+import java.util.ArrayList;
 
-    //import java.io.File;  // Import the File class
-  //  import java.io.IOException; 
+public class Student{
 
-   // String name;
-   // String schedule;
-    //int scheduleID;
+  String name;
+ 
+  
+
+public Student(){
+
+}
+
+ 
 
 
- // Import the IOException class to handle errors
 
-  public static void main(String[] args) {
-    try {
-      File myObj = new File("filename.txt");
-      if (myObj.createNewFile()) {
-        System.out.println("File created: " + myObj.getName());
-      } else {
-        System.out.println("File already exists.");
-      }
-   } catch (IOException e) {
-      System.out.println("An error occurred.");
-      e.printStackTrace();
-   }
-  }
+
+public void setID(){
+   = ((int)(Math.random()));
+
+  //here is the part were i do like the sorting, assigning seminars to students
 }
 
 
 
-System.out.print ("seminar 1, seminar 2, seminar 3, seminar 4, seminar 5")
+
+
+
+//System.out.print ("seminar 1, seminar 2, seminar 3, seminar 4, seminar 5");
 
 
 
 
 
-//}
+}
 
 
 
