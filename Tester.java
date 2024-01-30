@@ -11,6 +11,8 @@ public class Tester {
     static int choice4;
     static int choice5;
 
+    
+
   public static void main(String[] args) {
     try {
       File myObj = new File("SrSeminar_RawData.csv");
@@ -31,11 +33,16 @@ public class Tester {
       System.out.println("An error occurred.");
       e.printStackTrace();
    }
-   choice1 = Integer.parseInt(starr[row][1]);
-   choice2 = Integer.parseInt(starr[row][2]);
-   choice3 = Integer.parseInt(starr[row][3]);
-   choice4 = Integer.parseInt(starr[row][4]);
-   choice5 = Integer.parseInt(starr[row][5]);
+
+    choice1 = Integer.parseInt(starr[row][1]);
+    choice2 = Integer.parseInt(starr[row][2]);
+    choice3 = Integer.parseInt(starr[row][3]);
+    choice4 = Integer.parseInt(starr[row][4]);
+    choice5 = Integer.parseInt(starr[row][5]);  
+       
+   
+
+   
    
 
 

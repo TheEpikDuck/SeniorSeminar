@@ -12,6 +12,8 @@ public class LateStudent{
 
 //i think i need to add in a loop here a while loop maybe so it repeats 5 times?
 
+    public void Random()
+    {
     int randomIndex = (int) Math.round( Math.random());
     int studentOne = seminarID[randomIndex];
     int studentTwo = seminarID[randomIndex + 1];
@@ -19,7 +21,9 @@ public class LateStudent{
     int studentFour = seminarID[randomIndex + 3];
     int studentFive = seminarID[randomIndex + 4];
 
-    
+    System.out.print(seminarID);
+
+    }
 
 
     
