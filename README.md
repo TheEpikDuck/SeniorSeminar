@@ -28,3 +28,6 @@ fixed the tester, working on the choices right now
 
 1/30/2024
 still working on the choices also working on the number of people per session
+
+2/1/2024
+fixed things in the seminar and student class, still working about sorting the students into seminars, setting a limit on seminars, etc. I'll have to fix my late student, the code is not really working right now 
