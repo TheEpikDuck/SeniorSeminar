@@ -20,5 +20,11 @@ Added a tester file, I'm currently working on the randomization of seesion for t
 1/22/2024
 Put data files in, I might have to reorganizae them though since its quite mess right now. Still working on the late student part, hopefully i cant figure it out by tommorow. 
 
+1/24/2024
+fixed the last student code
+
 1/26/2024
 fixed the tester, working on the choices right now
+
+1/30/2024
+still working on the choices also working on the number of people per session
