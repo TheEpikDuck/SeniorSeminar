@@ -39,15 +39,18 @@ public class Tester {
     choice3 = Integer.parseInt(starr[row][3]);
     choice4 = Integer.parseInt(starr[row][4]);
     choice5 = Integer.parseInt(starr[row][5]);  
-       
-   
 
-   
-   
+    
+    public class People{
+      static int seminars;
+      static int maxPeople;
 
-
-
-  }
-        
+      for(int i=0; i<18; i++){
+        System.out.print("");
+        for(int j=0; j<16; j++){
+          System.out.print("3");
+        }
+      }
     }
+  
 

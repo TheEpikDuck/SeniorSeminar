@@ -1,14 +1,17 @@
-//import java.util.ArrayList;
-
-/*public class Seminar {
-
-   int max = 0;
-   int counter = 0;
-
-   for( int i=0; i < 16; i++){
-      counter = 0;
-      System.out.print("3");
+public class Seminar {
+   private String name;
+   private int id;
    
+
+    public void Session(String name, int Id) {
+      System.out.println("yes");
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getID() {
+        return id;
    }
 }
-*/
