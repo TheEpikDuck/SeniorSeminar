@@ -1,1 +1,20 @@
+ /*if(choice1 > 0){
+    students.add(new Student(name, choice1, choice2, choice3, choice4, choice5));
+   }
+   else {
+    random.add(new Student(name, choice1, choice2, choice3, choice4, choice5));
+   }
+ */
+     
+  }
+   
+   catch (IOException e) {
+      System.out.println("An error occurred.");
+      e.printStackTrace();
+   }
 
+   //System.out.print(name, choice1, choice2, choice3, choice4, choice5);
+}
+}
+
+no screenshot but heres the code
